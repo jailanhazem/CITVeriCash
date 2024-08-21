@@ -46,6 +46,3 @@ Verify that the user is redirected to the Facebook login page.
  The user is logged out, and the "Facebook helps you connect and share with the people in your life.  
 " text is displayed on the login page.
 
- ## Report Result
-![image](https://github.com/user-attachments/assets/e109c6a1-a03d-4f9c-b099-77fe8301f71f)
-
