@@ -26,8 +26,8 @@ log in to the Facebook website with valid credentials.
 
 - Steps:                 
 Open the Facebook website (https://www.facebook.com).                     
-Enter the email address "citvericashtest@outlook.com" in the email field.
-Enter the password "citvericashtest123" in the password field.   
+Enter the email address in the email field.
+Enter the password in the password field.   
 Click the "Log In" button.  
 Verify that the user is redirected to the Facebook homepage.
 
